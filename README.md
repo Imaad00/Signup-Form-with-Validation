@@ -24,7 +24,7 @@ A beautiful, fully responsive Signup Form built with **HTML**, **CSS**, and **Ja
 
 - **HTML5**
 - **CSS3**
-- **JavaScript (ES6)**
+- **JavaScript**
 - **Boxicons (for icons)**
 
 ---
