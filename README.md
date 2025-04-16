@@ -34,5 +34,5 @@ A beautiful, fully responsive Signup Form built with **HTML**, **CSS**, and **Ja
 ### 💻 Run Locally
 
 ```bash
-git clone https://github.com/your-username/signup-form-validation.git
-cd signup-form-validation
+git clone https://github.com/Imaad00/Signup-Form-with-Validation.git
+cd Signup-Form-with-Validation.
